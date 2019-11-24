@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Feb 16 12:16:52 EET 2019
+0.baseType=DIRECTORY
+0.base=/Users/orazoulay/Desktop/Password_Research/app/build/intermediates/assets/debug
+0.path=fonts/ANDROID_ROBOT.ttf
+0.set=ASSET
+count=1
